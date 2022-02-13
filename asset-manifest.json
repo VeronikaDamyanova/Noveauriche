@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/noveauriche/static/css/main.362af019.chunk.css",
-    "main.js": "/noveauriche/static/js/main.59ba1e0f.chunk.js",
-    "main.js.map": "/noveauriche/static/js/main.59ba1e0f.chunk.js.map",
+    "main.js": "/noveauriche/static/js/main.76b8120b.chunk.js",
+    "main.js.map": "/noveauriche/static/js/main.76b8120b.chunk.js.map",
     "runtime-main.js": "/noveauriche/static/js/runtime-main.0299967f.js",
     "runtime-main.js.map": "/noveauriche/static/js/runtime-main.0299967f.js.map",
     "static/css/2.58a45539.chunk.css": "/noveauriche/static/css/2.58a45539.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.58a45539.chunk.css",
     "static/js/2.d10b6ade.chunk.js",
     "static/css/main.362af019.chunk.css",
-    "static/js/main.59ba1e0f.chunk.js"
+    "static/js/main.76b8120b.chunk.js"
   ]
 }
